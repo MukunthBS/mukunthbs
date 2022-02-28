@@ -12,3 +12,5 @@
  <hr>
  
  **Welcome!** ❤️
+<hr>
+<a href = "https://drive.google.com/file/d/118WmWIMli7em4tRpWq0F_AayrY4d9vN-/view?usp=sharing">Download CV</a> ⬇️
